@@ -1,6 +1,4 @@
 # comeback-java
-only java java java... 
+only java java java.
 
-
-n
-vbvb
+# JAVA is the medicine for soul 🔥
