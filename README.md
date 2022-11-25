@@ -1,6 +1,2 @@
 # comeback-java
-only java java java... 
-
-
-n
-vbvb
+only java java java.
