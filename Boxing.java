@@ -15,7 +15,7 @@ public class Boxing {
         // runs without error
 
         String str = "123";
-        // int n = str; // error
+        // int n = str; // not good
         int n = Integer.parseInt(str);
         System.out.println("After parseInt " + n);
 
