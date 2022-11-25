@@ -128,9 +128,7 @@ public class Datastructures {
 //        student.replace(1,"hkk");
 //        System.out.println(student);
 
-
-        // Hash code ,,, hash function
-
+// hash  
 
     }
 
